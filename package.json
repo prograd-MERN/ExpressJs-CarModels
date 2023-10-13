@@ -1,0 +1,19 @@
+{
+  "name": "apifetch",
+  "version": "1.0.0",
+  "description": "\"Express api data\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "\"api\"",
+    "\"json\""
+  ],
+  "author": "Balaraman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
